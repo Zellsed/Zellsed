@@ -17,8 +17,14 @@
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Semantic UI React-282C34?logo=semanticuireact&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=#000000" alt="Next.js logo" title="Next.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Web3.js-282C34?logo=web3.js&logoColor=#F16822" alt="Web3.js logo" title="Web3.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
@@ -48,4 +54,3 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
-
