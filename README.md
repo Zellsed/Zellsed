@@ -23,6 +23,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=#000000" alt="Next.js logo" title="Next.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Ethers JS-282C34?logo=ethers&logoColor=##2535A0" alt="Ethers logo" title="EThers" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Web3.js-282C34?logo=web3.js&logoColor=#F16822" alt="Web3.js logo" title="Web3.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
