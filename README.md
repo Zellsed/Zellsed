@@ -35,7 +35,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=#E0234E" alt="#Nestjs logo" title="Nestjs" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Ton FunC-282C34?logo=ton&logoColor=#0098EA" alt="#Ton logo" title="ton" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
