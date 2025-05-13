@@ -34,11 +34,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ton FunC-282C34?logo=ton&logoColor=#0098EA" alt="#Ton logo" title="ton" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Typescript-282C34?logo=ton&logoColor=#3178C6" alt="#Typescript logo" title="typescript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=#3178C6" alt="#Typescript logo" title="typescript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Postman-282C34?logo=ton&logoColor=#FF6C37" alt="#Postman logo" title="postman" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="#Postman logo" title="postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Postgresql-282C34?logo=ton&logoColor=#4169E1" alt="#Postgresql logo" title="postgresql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Postgresql-282C34?logo=postgresql&logoColor=#4169E1" alt="#Postgresql logo" title="postgresql" height="25" /></span>
 &nbsp;
 
 <br>
