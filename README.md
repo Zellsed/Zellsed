@@ -8,8 +8,6 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -17,7 +15,6 @@
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Semantic UI React-282C34?logo=semanticuireact&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
@@ -26,8 +23,6 @@
 <span><img src="https://img.shields.io/badge/Ethers JS-282C34?logo=ethers&logoColor=##2535A0" alt="Ethers logo" title="EThers" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Web3.js-282C34?logo=web3.js&logoColor=#F16822" alt="Web3.js logo" title="Web3.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Blockchain-282C34?logo=blockchaindotcom&logoColor=#121D33" alt="#Blockchain logo" title="Blockchain" height="25" /></span>
 &nbsp;
@@ -38,6 +33,12 @@
 <span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=#E0234E" alt="#Nestjs logo" title="Nestjs" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ton FunC-282C34?logo=ton&logoColor=#0098EA" alt="#Ton logo" title="ton" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Typescript-282C34?logo=ton&logoColor=#3178C6" alt="#Typescript logo" title="typescript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=ton&logoColor=#FF6C37" alt="#Postman logo" title="postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postgresql-282C34?logo=ton&logoColor=#4169E1" alt="#Postgresql logo" title="postgresql" height="25" /></span>
 &nbsp;
 
 <br>
