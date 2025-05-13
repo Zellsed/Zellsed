@@ -30,9 +30,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ethereum-282C34?logo=ethereum&logoColor=#3C3C3D" alt="#Ethereum logo" title="Ethereum" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=#E0234E" alt="#Nestjs logo" title="Nestjs" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Ton FunC-282C34?logo=ton&logoColor=#0098EA" alt="#Ton logo" title="ton" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=#E0234E" alt="#Nestjs logo" title="Nestjs" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=#3178C6" alt="#Typescript logo" title="typescript" height="25" /></span>
 &nbsp;
